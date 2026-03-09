@@ -74,19 +74,6 @@ Projelerimde **Laravel, SQL, IoT cihazları ve veri izleme sistemlerini** birlik
 * **Altyapı ve tünel izleme sistemleri**
 * **Veri analiz ve raporlama uygulamaları**
 
----
-
-# 📊 GitHub İstatistikler
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pckopat21&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pckopat21&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 Contribution Aktivitesi
 
