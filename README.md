@@ -69,6 +69,7 @@ Projelerimde **Laravel, SQL, IoT cihazları ve veri izleme sistemlerini** birlik
 
 * Laravel tabanlı **kurumsal yönetim sistemleri**
 * **Personel takip ve otomasyon sistemleri**
+* * **Kart Okuma ve Kredi otomasyon sistemleri**
 * IoT tabanlı **sensör veri toplama platformları**
 * **ESP32 cihazlarından veri toplama ve kontrol sistemleri**
 * **Altyapı ve tünel izleme sistemleri**
