@@ -45,6 +45,7 @@ Projelerimde **Laravel, SQL, IoT cihazları ve veri izleme sistemlerini** birlik
 * **Laravel**
 * **PHP**
 * **MySQL / SQL**
+* Flutter
 * JavaScript
 * Linux
 * Git
@@ -62,6 +63,7 @@ Projelerimde **Laravel, SQL, IoT cihazları ve veri izleme sistemlerini** birlik
 * Tünel otomasyon sistemleri
 * Dijital ikiz simülasyonları
 * SCADA benzeri kontrol platformları
+* Flutter ile mobil uygulama geliştirme
 
 ---
 
@@ -74,6 +76,7 @@ Projelerimde **Laravel, SQL, IoT cihazları ve veri izleme sistemlerini** birlik
 * **ESP32 cihazlarından veri toplama ve kontrol sistemleri**
 * **Altyapı ve tünel izleme sistemleri**
 * **Veri analiz ve raporlama uygulamaları**
+* Flutter mobil dashboard uygulamaları
 
 
 # 🔥 Contribution Aktivitesi
@@ -102,6 +105,7 @@ Daha sonra bu fikirler:
 * analiz
 * otomasyon
 * kontrol
+* mobil kontrol
 
 bileşenleri eklenerek **daha büyük mühendislik sistemlerine dönüşür.**
 
