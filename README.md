@@ -29,6 +29,7 @@ Projelerimde **Laravel, SQL, IoT cihazları ve veri izleme sistemlerini** birlik
 | Monitoring Systems  | Altyapı ve tünel izleme sistemleri                     |
 | Automation          | Endüstriyel otomasyon ve kontrol sistemleri            |
 | Simulation          | Dijital ikiz (Digital Twin) simülasyonları             |
+| Mobile Development  | Flutter ile mobil uygulama geliştirme                  |
 
 ---
 
