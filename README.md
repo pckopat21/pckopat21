@@ -1,16 +1,130 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Servet%20AVCI&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!--
-**pckopat21/pckopat21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=22&center=true&vCenter=true&width=650&lines=Elektrik+Elektronik+Mühendisi;Laravel+Backend+Developer;IoT+%7C+ESP32+Projeleri;Otomasyon+ve+Altyapı+Sistemleri;Digital+Twin+ve+Veri+İzleme+Sistemleri"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Merhaba
+
+Ben **Servet AVCI**.
+
+Elektrik Elektronik Mühendisiyim ve özellikle **yazılım ile gerçek dünya sistemlerini birleştiren projeler** geliştirmekten hoşlanıyorum.
+
+Genellikle **backend geliştirme, otomasyon ve sensör tabanlı sistemler** üzerinde çalışıyorum.
+Projelerimde **Laravel, SQL, IoT cihazları ve veri izleme sistemlerini** birlikte kullanıyorum.
+
+---
+
+# 🧠 Uzmanlık Alanları
+
+| Alan                | Açıklama                                               |
+| ------------------- | ------------------------------------------------------ |
+| Backend Development | Laravel ile yönetim ve otomasyon sistemleri geliştirme |
+| Database Design     | MySQL / SQL veri modelleme ve performans optimizasyonu |
+| IoT                 | ESP32 tabanlı sensör veri toplama sistemleri           |
+| Monitoring Systems  | Altyapı ve tünel izleme sistemleri                     |
+| Automation          | Endüstriyel otomasyon ve kontrol sistemleri            |
+| Simulation          | Dijital ikiz (Digital Twin) simülasyonları             |
+
+---
+
+# 🛠️ Teknoloji Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,linux,git,arduino" />
+
+</p>
+
+**Kullandığım başlıca teknolojiler**
+
+* **Laravel**
+* **PHP**
+* **MySQL / SQL**
+* JavaScript
+* Linux
+* Git
+* ESP32
+* Arduino ekosistemi
+
+---
+
+# 🔬 İlgi Alanlarım
+
+* IoT sensör sistemleri
+* ESP32 veri toplama projeleri
+* Endüstriyel otomasyon
+* Altyapı izleme sistemleri
+* Tünel otomasyon sistemleri
+* Dijital ikiz simülasyonları
+* SCADA benzeri kontrol platformları
+
+---
+
+# ⚙️ Geliştirdiğim Proje Türleri
+
+* Laravel tabanlı **kurumsal yönetim sistemleri**
+* **Personel takip ve otomasyon sistemleri**
+* IoT tabanlı **sensör veri toplama platformları**
+* **ESP32 cihazlarından veri toplama ve kontrol sistemleri**
+* **Altyapı ve tünel izleme sistemleri**
+* **Veri analiz ve raporlama uygulamaları**
+
+---
+
+# 📊 GitHub İstatistikler
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pckopat21&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pckopat21&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Aktivitesi
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pckopat21&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Proje Yaklaşımım
+
+Projelerim genellikle küçük bir ihtiyaçla başlar.
+
+Örneğin:
+
+* bir sensör verisini okumak
+* bir işlemi otomatik hale getirmek
+* sahadaki bir sistemi uzaktan izlemek
+
+Daha sonra bu fikirler:
+
+* veri toplama
+* analiz
+* otomasyon
+* kontrol
+
+bileşenleri eklenerek **daha büyük mühendislik sistemlerine dönüşür.**
+
+---
+
+# 👀 Profil Ziyaretçileri
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pckopat21&label=Ziyaretçi&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
