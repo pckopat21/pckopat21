@@ -46,7 +46,7 @@ Projelerimde **Laravel, SQL, IoT cihazları ve veri izleme sistemlerini** birlik
 * **Laravel**
 * **PHP**
 * **MySQL / SQL**
-* Flutter
+* React Native
 * JavaScript
 * Linux
 * Git
