@@ -37,7 +37,7 @@ Projelerimde **Laravel, SQL, IoT cihazları ve veri izleme sistemlerini** birlik
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,linux,git,arduino" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,linux,git,arduino,reactnative" />
 
 </p>
 
